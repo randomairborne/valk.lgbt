@@ -1,4 +1,7 @@
-# valk.lgbt
+---
+layout: null
+title: valkyrie_pilot's service list
+---
 
 a website that lists all my other websites \
 contact: [valk (at) randomairborne.dev](mailto:valk@randomairborne.dev) \
