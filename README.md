@@ -1,5 +1,4 @@
 ---
-layout: null
 title: valkyrie_pilot's service list
 description: a list of all the services i run, that you can use right now!
 ---
