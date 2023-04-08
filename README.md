@@ -1,6 +1,7 @@
 ---
 title: valkyrie_pilot's service list
 description: a list of all the services i run, that you can use right now!
+permalink: /index.html
 ---
 
 a website that lists all my other websites \
