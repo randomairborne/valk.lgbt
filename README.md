@@ -10,6 +10,7 @@ contact: [valk (at) randomairborne.dev](mailto:valk@randomairborne.dev)
 note: my canonical emails are at randomairborne.dev. any other website just forwards.
 
 ## socials
+
 [![github](https://img.shields.io/badge/github-randomairborne-lightgrey?logo=github)](https://github.com/randomairborne)
 [![mastodon](https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-563ACC?logo=mastodon)](https://mastodon.zero.lgbt/%40valk)
 [![youtube](https://img.shields.io/badge/youtube-valkyrie%5Fpilot-FF0000?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
