@@ -4,16 +4,18 @@ description: a list of all the services i run, that you can use right now!
 permalink: /index.html
 ---
 
-a website that lists all my other websites \
+## a website that lists all my other websites \
 contact: [valk (at) randomairborne.dev](mailto:valk@randomairborne.dev) \
 note: my canonical emails are at randomairborne.dev. any other website just forwards. \
-socials: 
+## socials:
 [![github](https://img.shields.io/badge/github-randomairborne-lightgrey?logo=github)](https://github.com/randomairborne)
-[![mastodon]((https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-purple?logo=mastodon))](https://mastodon.zero.lgbt/%40valk)
-[![youtube](https://img.shields.io/badge/youtube-valkyrie_pilot-red?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
-[![reddit](https://img.shields.io/badge/reddit-%2Fu%2Fvalkyrie_pilotMC-FF5700?logo=reddit)](https://reddit.com/u/valkyrie_pilotMC)
-[![twitter](https://img.shields.io/badge/twitter-%40valkyrie_pilot-1DA1F2?logo=twitter)](https://twitter.com/valkyrie_pilot)
-![discord](https://img.shields.io/badge/discord-valkyrie_pilot%232707-5865F2?logo=discord)
+[![mastodon](https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-purple?logo=mastodon)](https://mastodon.zero.lgbt/%40valk)
+[![youtube](https://img.shields.io/badge/youtube-valkyrie%5Fpilot-red?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
+[![reddit](https://img.shields.io/badge/reddit-%2Fu%2Fvalkyrie%5FpilotMC-FF5700?logo=reddit)](https://reddit.com/u/valkyrie_pilotMC)
+[![twitter](https://img.shields.io/badge/twitter-%40valkyrie%5Fpilot-1DA1F2?logo=twitter)](https://twitter.com/valkyrie_pilot)
+[![discord](https://img.shields.io/badge/discord-valkyrie%5Fpilot%232707-5865F2?logo=discord)](https://valk.sh/discord)
+
+## projects
 
 - [valksh](https://valk.sh/) \
 subdomain host and link shortener. Links change.
