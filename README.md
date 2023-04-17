@@ -12,11 +12,11 @@ note: my canonical emails are at randomairborne.dev. any other website just forw
 ## socials
 
 [![github](https://img.shields.io/badge/github-randomairborne-lightgrey?logo=github)](https://github.com/randomairborne)
-[![mastodon](https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-563ACC?logo=mastodon)](https://mastodon.zero.lgbt/%40valk)
-[![youtube](https://img.shields.io/badge/youtube-valkyrie%5Fpilot-FF0000?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
-[![reddit](https://img.shields.io/badge/reddit-%2Fu%2Fvalkyrie%5FpilotMC-FF5700?logo=reddit)](https://reddit.com/u/valkyrie_pilotMC)
-[![twitter](https://img.shields.io/badge/twitter-%40valkyrie%5Fpilot-1DA1F2?logo=twitter)](https://twitter.com/valkyrie_pilot)
-[![discord](https://img.shields.io/badge/discord-valkyrie%5Fpilot%232707-5865F2?logo=discord)](https://valk.sh/discord)
+[![mastodon](https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-563ACC?logo=mastodon)](https://mastodon.zero.lgbt/@valk)
+[![youtube](https://img.shields.io/badge/youtube-valkyrie__pilot-FF0000?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
+[![reddit](https://img.shields.io/badge/reddit-%2Fu%2Fvalkyrie__pilotMC-FF5700?logo=reddit)](https://reddit.com/u/valkyrie_pilotMC)
+[![twitter](https://img.shields.io/badge/twitter-%40valkyrie__pilot-1DA1F2?logo=twitter)](https://twitter.com/valkyrie_pilot)
+[![discord](https://img.shields.io/badge/discord-valkyrie__pilot%232707-5865F2?logo=discord)](https://valk.sh/discord)
 
 ## projects
 
