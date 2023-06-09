@@ -23,9 +23,6 @@ note: my canonical emails are at randomairborne.dev. any other website just forw
 - [valksh](https://valk.sh/) \
 subdomain host and link shortener. Links change.
 
-- [search6](https://search6.valk.sh/) ([repo](https://github.com/randomairborne/search6)) \
-a way to search the minecraft discord levels. it does a *ton* of other stuff too, but most of it isn't for the public to use.
-
 - [experienced](https://xp.valk.sh/) ([repo](https://github.com/randomairborne/experienced)) \
 experienced and minixpd are two discord bots that share a ton of code, one self-hostable, the other hosted
 by me, to make discord leveling easy and open.
