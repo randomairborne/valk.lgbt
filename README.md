@@ -6,6 +6,7 @@ permalink: /index.html
 
 ## a website that lists all my other websites
 contact: [valk (at) randomairborne.dev](mailto:valk@randomairborne.dev)
+
 Software development commissions are currently open. I can do complex backend and simple frontend websites, along with complex custom discord bots.
 e-mail me for pricing.
 
