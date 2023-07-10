@@ -17,7 +17,6 @@ note: my canonical emails are at randomairborne.dev. any other website just forw
 [![github](https://img.shields.io/badge/github-randomairborne-lightgrey?logo=github)](https://github.com/randomairborne)
 [![mastodon](https://img.shields.io/badge/mastodon-%40valk%40zero.lgbt-563ACC?logo=mastodon)](https://mastodon.zero.lgbt/@valk)
 [![youtube](https://img.shields.io/badge/youtube-valkyrie__pilot-FF0000?logo=youtube)](https://www.youtube.com/@valkyrie_pilot)
-[![reddit](https://img.shields.io/badge/reddit-%2Fu%2Fvalkyrie__pilotMC-FF5700?logo=reddit)](https://reddit.com/u/valkyrie_pilotMC)
 [![twitter](https://img.shields.io/badge/twitter-%40valkyrie__pilot-1DA1F2?logo=twitter)](https://twitter.com/valkyrie_pilot)
 [![discord](https://img.shields.io/badge/discord-valkyrie__pilot-5865F2?logo=discord)](https://valk.sh/discord)
 
@@ -27,7 +26,8 @@ note: my canonical emails are at randomairborne.dev. any other website just forw
 subdomain host and link shortener. Links change.
 
 - [experienced](https://xp.valk.sh/) ([repo](https://github.com/randomairborne/experienced)) \
-experienced is a discord bot that is easily self-hostable, designed to make discord leveling easy and open. 
+experienced is a discord bot that is easily self-hostable, designed to make discord leveling easy and open.
+Powerful, customizable, and generally amazing.
 
 - [giveip](https://giveip.io) ([repo](https://github.com/randomairborne/giveip)) \
 giveip is a no-logs, free-to-use, no-frills IP address echoer. v4.giveip.io and v6.giveip.io will return only
